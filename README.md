@@ -1,21 +1,18 @@
-# <My_NS_Name (prefix)> <Discipline|Local> Namespace
-<!-- UPDATE NEEDED - short summary of what this namespace is. approx 100-256 characters. update steward information -->
+# Apollo Mission Data Dictionary
 
-The <My_NS_Name (prefix)> <Discipline/Local> Namespace does x, y, z.
+The Apollo Mission Dictionary (apollo) contains classes, attributes and rules specific to the Apollo missions and their instruments. 
 
-Steward: [add-steward-name-here, add-node-id-here Node](mailto:steward@example.com)
+Steward: Jennifer Ward, [PDS Geosciences Node](https://pds-geosciences.wustl.edu/)
 
 
 # Documentation
 
-<!-- UPDATE NEEDED - replace ldd-template with your namespace github repository name -->
-See this namespace's online documentation at https://pds-data-dictionaries.github.io/ldd-template for a User Guide and Detailed Documentation on this namespace.
+See this namespace's online documentation at https://pds-data-dictionaries.github.io/ldd-apollo for a User Guide and Detailed Documentation on this namespace (TBD).
 
 
 # Latest Release
 
-<!-- UPDATE NEEDED - Replace <PDS Namespace> with namespace name and modify the URL to have #namespace-id at the end, e.g. #disp, #geom, etc. -->
-* [&lt;PDS Namespace&gt;](https://pds.nasa.gov/datastandards/dictionaries/#disp)
+* [Apollo](https://pds.nasa.gov/datastandards/dictionaries/#apollo)
 * [GitHub](../../releases/latest)
 * [Change log](CHANGELOG.md)
 
