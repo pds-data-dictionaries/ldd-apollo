@@ -1,1 +1,1 @@
-Short abstract for the namespace should go here
+The Apollo Mission Dictionary (apollo) contains classes, attributes and rules specific to the Apollo missions and their instruments.
