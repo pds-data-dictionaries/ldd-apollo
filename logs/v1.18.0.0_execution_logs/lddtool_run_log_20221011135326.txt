@@ -1,19 +1,19 @@
 
->>  INFO LDDTOOL Version: 10.0.0
+>>  INFO LDDTOOL Version: 14.1.1
 >>  INFO IM Version Id: 1.18.0.0
 >>  INFO IM Namespace Id: pds
 >>  INFO IM Label Version Id: 1.24
->>  INFO Date: Wed Sep 28 15:58:17 UTC 2022
->>  INFO PARENT_DIR: /tmp/lddtool-14.1.0
->>  INFO SCRIPT_DIR: /tmp/lddtool-14.1.0/bin
->>  INFO LIB_DIR: /tmp/lddtool-14.1.0/lib
+>>  INFO Date: Tue Oct 11 13:53:26 UTC 2022
+>>  INFO PARENT_DIR: /tmp/lddtool-14.1.1
+>>  INFO SCRIPT_DIR: /tmp/lddtool-14.1.1/bin
+>>  INFO LIB_DIR: /tmp/lddtool-14.1.1/lib
 
->>> INFO Init:  - Config.Properties Namespace Id Using:pds
+>>> INFO Init:  - Config.Properties Namespace Id Found:apollo
+>>> INFO Init:  - Config.Properties Namespace Id Using:apollo
 >>> INFO Init:  - LDD Dictionary_Type is Mission
->>> WARNING Init:  - Config.Properties Namespace Id Not Found:apollo
 
  -- LDDTool Execution Summary --
-     1 warning(s)
+     0 warning(s)
      0 error(s)
      0 fatal error(s)
 
@@ -25,7 +25,7 @@ Input:
      - IM Version: true
      - Export JSON Flag: true
 
-     - Ingest LDD(s): /home/runner/work/ldd-apollo/ldd-apollo/src/PDS4_Apollo_IngestLDD.xml
+     - Ingest LDD(s): /home/runner/work/ldd-apollo/ldd-apollo/src/PDS4_APOLLO_IngestLDD.xml
 
 Output:
 
